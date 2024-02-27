@@ -218,7 +218,7 @@ Output
 <div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="turtle.png" class="lightbox" data-glightbox="description: .lightbox-desc-1" data-gallery="seagrass" title="a) Resident green turtle"><img src="turtle.png" class="img-fluid figure-img" alt="a) Resident green turtle"></a></p>
+<p><a href="turtle.png" class="lightbox" data-gallery="seagrass" data-glightbox="description: .lightbox-desc-1" title="a) Resident green turtle"><img src="turtle.png" class="img-fluid figure-img" alt="a) Resident green turtle"></a></p>
 <figcaption>a) Resident green turtle</figcaption>
 </figure>
 </div>
@@ -226,7 +226,7 @@ Output
 <div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="citizen.png" class="lightbox" data-glightbox="description: .lightbox-desc-2" data-gallery="seagrass" title="b) local groups involved in the experiment"><img src="citizen.png" class="img-fluid figure-img" alt="b) local groups involved in the experiment"></a></p>
+<p><a href="citizen.png" class="lightbox" data-gallery="seagrass" data-glightbox="description: .lightbox-desc-2" title="b) local groups involved in the experiment"><img src="citizen.png" class="img-fluid figure-img" alt="b) local groups involved in the experiment"></a></p>
 <figcaption>b) local groups involved in the experiment</figcaption>
 </figure>
 </div>
@@ -633,7 +633,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 });
 </script>
 </div> <!-- /content -->
-<script>var lightboxQuarto = GLightbox({"openEffect":"zoom","selector":".lightbox","descPosition":"bottom","loop":false,"closeEffect":"zoom"});
+<script>var lightboxQuarto = GLightbox({"selector":".lightbox","loop":false,"closeEffect":"zoom","openEffect":"zoom","descPosition":"bottom"});
 window.onload = () => {
   lightboxQuarto.on('slide_before_load', (data) => {
     const { slideIndex, slideNode, slideConfig, player, trigger } = data;
