@@ -1,45 +1,25 @@
-project:
-  type: website
-  output-dir: docs
-  resources:
-    - "cv_DOB.pdf"
-  render:
-    - "*.qmd"
+on:
+  workflow_dispatch:
+  push:
+    branches: main
 
-website:
-  title: "Duncan O'Brien"
-  favicon: favicon.ico
-  twitter-card:
-    creator: "@duncanobrienn"
-    image: "/profile-tw.png"
-  open-graph: true
-  navbar:
-    #right:
-    tools:
-      - icon: twitter
-        href: https://twitter.com/duncanobrienn
-      - icon: github
-        href: https://github.com/duncanobrien
+name: Quarto Publish
 
-    left:
-      - href: index.qmd
-        text: About
-      #- href: papers/index.qmd
-      #  text: Papers
-      - href: research/index.qmd
-        text: Research
-      - href: practical/index.qmd
-        text: Practical Work
-      - href: talks/index.qmd
-        text: Talks
+jobs:
+  build-deploy:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
 
-format:
-  html:
-    theme: sandstone
-    css: styles.css
-    toc: true
+      - name: Set up Quarto
+        uses: quarto-dev/quarto-actions/setup@v2
 
-editor: source
-
-execute:
-  freeze: auto
+      - name: Render and Publish
+        uses: quarto-dev/quarto-actions/publish@v2
+        with:
+          target: gh-pages
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
