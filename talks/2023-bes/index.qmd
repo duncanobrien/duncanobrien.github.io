@@ -12,6 +12,6 @@ title-block-banner-color: "black"
 ---
 
 ```{=html}
-<iframe src="BES_2023_poster.pdf" name="frame" width=90% height="1015"></iframe>
+<iframe src="BES_2023_poster2.pdf" name="frame" width=90% height="1015"></iframe>
 ```
 
