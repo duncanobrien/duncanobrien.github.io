@@ -1,0 +1,135 @@
+[
+  {
+    "objectID": "talks/index.html",
+    "href": "talks/index.html",
+    "title": "Talks and Posters",
+    "section": "",
+    "text": "Resilience metrics are robust across data qualities but sensitive to community size\n\n\nA poster @ the British Ecological Society’s 2023 annual meeting.\n\n\n\nDuncan O’Brien\n\n\nDec 14, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIdentifying regime shifts using early warning signals: the univariate and multivariate options\n\n\nA poster presentation @ the British Ecological Society’s 2022 annual meeting.\n\n\n\nDuncan O’Brien\n\n\nDec 21, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nResilience as an interdisciplinary concept\n\n\nA talk @ Research Without Borders 2022 hosted by the Cabot Institute.\n\n\n\nDuncan O’Brien\n\n\nJul 13, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPlanktonic functional diversity changes in synchrony with lake ecosystem state\n\n\nA talk @ the British Ecological Society’s 2021 annual meeting.\n\n\n\nDuncan O’Brien\n\n\nDec 15, 2021\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOctopus abundance in an anchialine lake from The Bahamas\n\n\nA talk @ the 2020 Bahamas Natural History Conference.\n\n\n\nDuncan O’Brien\n\n\nJul 8, 2020\n\n\n\n\n\n\n\n\nNo matching items\n\n\nFor older talks, see Speaker Deck."
+  },
+  {
+    "objectID": "talks/2022-rwb/index.html",
+    "href": "talks/2022-rwb/index.html",
+    "title": "Resilience as an interdisciplinary concept",
+    "section": "",
+    "text": "An summary video of the event can be found on the Bristol Doctoral College’s website."
+  },
+  {
+    "objectID": "talks/2021-bes/index.html",
+    "href": "talks/2021-bes/index.html",
+    "title": "Planktonic functional diversity changes in synchrony with lake ecosystem state",
+    "section": "",
+    "text": "The associated paper is: O’Brien D. A., Gal G., Thackeray S. J., Matsuzaki S-i. S. & Clements C. F. 2024. Planktonic functional diversity changes in synchrony with lake ecosystem state, Global Change Biology. doi"
+  },
+  {
+    "objectID": "research/index.html",
+    "href": "research/index.html",
+    "title": "Papers",
+    "section": "",
+    "text": "The most up-to-date list and impact of my work could be found on Google Scholar."
+  },
+  {
+    "objectID": "research/index.html#working-papers",
+    "href": "research/index.html#working-papers",
+    "title": "Papers",
+    "section": "Working Papers",
+    "text": "Working Papers\n\n\n\n\n\n\n\n  \n    \n      Resilience metrics are robust across data qualities but sensitive to community size \n      \n      \n      \n      \n        \n          Sep 25, 2023. O'Brien D. A., Clements C. F. Working paper.\n        \n      \n      \n      \n      \n      \n      \n\n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n         \n           Preprint \n         \n      \n      \n      \n      \n      \n      \n      \n      \n      \n         \n           GitHub \n        \n      \n      \n      \n      \n      \n      \n      \n      \n      \n    \n  \n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "research/index.html#published-papers",
+    "href": "research/index.html#published-papers",
+    "title": "Papers",
+    "section": "Published Papers",
+    "text": "Published Papers\n\n\n\n\n\n\n\n  \n    \n      Herbivore effects increase with latitude across the extent of a foundational seagrass \n      \n      \n      \n      \n      \n      \n      \n        \n          2024. Campbell J. E., Rhoades O. K., Munson C. J., et al. Nature Ecology and Evolution.\n        \n      \n      \n      \n\n      \n      \n      \n      \n      \n         \n           PDF \n         \n      \n      \n      \n      \n      \n         \n           Publisher's Version \n        \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n    \n  \n    \n      Early warning signals have limited applicability to empirical lake data \n      \n      \n      \n      \n      \n      \n      \n        \n          2023. O'Brien D. A., Deb S., Gal G., Thackeray S. J., Dutta P. S., Matsuzaki S-i. S., May L., Clements C. F. Nature Communications.\n        \n      \n      \n      \n\n      \n      \n      \n      \n      \n         \n           PDF \n         \n      \n      \n      \n         \n           Open Access\n        \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n         \n           GitHub \n        \n      \n      \n      \n      \n      \n      \n      \n      \n      \n    \n  \n    \n      Phenotypic response to different predator strategies can be mediated by temperature \n      \n      \n      \n      \n      \n      \n      \n        \n          2023. Cerini F., O'Brien D. A., Wolfe E., Besson M., Clements C. F. Ecology and Evolution.\n        \n      \n      \n      \n\n      \n      \n      \n      \n      \n         \n           PDF \n         \n      \n      \n      \n         \n           Open Access\n        \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n         \n           GitHub \n        \n      \n      \n      \n      \n      \n      \n      \n      \n      \n    \n  \n    \n      EWSmethods: an R package to forecast tipping points at the community level using early warning signals, resilience measures, and machine learning models \n      \n      \n      \n      \n      \n      \n      \n        \n          2023. O'Brien D. A., Deb S., Sidheekh S., Krishnan N. C., Dutta P. S., Clements C. F. Ecography.\n        \n      \n      \n      \n\n      \n      \n      \n      \n      \n         \n           PDF \n         \n      \n      \n      \n         \n           Open Access\n        \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n         \n           GitHub \n        \n      \n      \n      \n      \n      \n      \n      \n      \n      \n    \n  \n    \n      Seagrass abundance predicts surficial soil organic carbon stocks across the range of Thalassia testudinum in the Western North Atlantic \n      \n      \n      \n      \n      \n      \n      \n        \n          2023. Fourqurean J., Campbell J. E., Rhoades O. K., et al. Estuaries and Coasts.\n        \n      \n      \n      \n\n      \n      \n      \n      \n      \n         \n           PDF \n         \n      \n      \n      \n      \n      \n         \n           Publisher's Version \n        \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n    \n  \n    \n      Nocturnal surveys of lined seahorses reveal increased densities and seasonal recruitment patterns \n      \n      \n      \n      \n      \n      \n      \n        \n          2023. Mason H. D., Rose E., Gonzalez J. E., O'Brien D. A. Ecology and Evolution.\n        \n      \n      \n      \n\n      \n      \n      \n      \n      \n         \n           PDF \n         \n      \n      \n      \n         \n           Open Access\n        \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n    \n  \n    \n      Anemone bleaching impacts the larval recruitment success of an anemone- associated fish \n      \n      \n      \n      \n      \n      \n      \n        \n          2023. Besson M., Feeney W. E., Gache C., O'Brien D. A., Berthe C., Cowan Z., Brooker R. M., Laudet V., Lecchini D. Coral Reefs.\n        \n      \n      \n      \n\n      \n      \n      \n      \n      \n         \n           PDF \n         \n      \n      \n      \n         \n           Open Access\n        \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n         \n           GitHub \n        \n      \n      \n      \n      \n      \n      \n      \n      \n      \n    \n  \n    \n      Planktonic functional diversity changes in synchrony with lake ecosystem state \n      \n      \n      \n      \n      \n      \n      \n        \n          2023. O'Brien D. A., Gal G., Thackeray S. J., Matsuzaki S-i. S., Clements C. F. Global Change Biology.\n        \n      \n      \n      \n\n      \n      \n      \n      \n      \n         \n           PDF \n         \n      \n      \n      \n         \n           Open Access\n        \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n         \n           GitHub \n        \n      \n      \n      \n      \n      \n      \n      \n      \n      \n    \n  \n    \n      Spatiotemporal thermal variation drives diversity trends in experimental landscapes \n      \n      \n      \n      \n      \n      \n      \n        \n          2023. Wolfe E., Cerini F., Besson M., O'Brien D. A., Clements C. F. Journal of Animal Ecology.\n        \n      \n      \n      \n\n      \n      \n      \n      \n      \n         \n           PDF \n         \n      \n      \n      \n         \n           Open Access\n        \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n         \n           GitHub \n        \n      \n      \n      \n      \n      \n      \n      \n      \n      \n    \n  \n    \n      Early warning signal reliability varies with COVID-19 waves \n      \n      \n      \n      \n      \n      \n      \n        \n          2021. O'Brien D. A., Clements C. F. Biology Letters.\n        \n      \n      \n      \n\n      \n      \n      \n      \n      \n         \n           PDF \n         \n      \n      \n      \n         \n           Open Access\n        \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n         \n           GitHub \n        \n      \n      \n      \n      \n      \n      \n      \n      \n      \n    \n  \n    \n      Nocturnal surveys reveal novel insights into the community dynamics of an anchialine ecosystem from The Bahamas \n      \n      \n      \n      \n      \n      \n      \n        \n          2021. O'Brien D. A., Mason H. D., Bethel E., O'Shea O. R. Estuarine, Coastal and Shelf Science.\n        \n      \n      \n      \n\n      \n      \n      \n      \n      \n         \n           PDF \n         \n      \n      \n      \n         \n           Open Access\n        \n      \n      \n      \n         \n           Publisher's Version \n        \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n    \n  \n    \n      An experimental assessment of social tolerance and den ecology in a high-density octopus population \n      \n      \n      \n      \n      \n      \n      \n        \n          2021. O'Brien D. A., Taylor M., Mason H. D., Boersch-Supan P. H., O'Shea O. R. Marine Biology.\n        \n      \n      \n      \n\n      \n      \n      \n      \n      \n         \n           PDF \n         \n      \n      \n      \n         \n           Open Access\n        \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n    \n  \n    \n      Evidence and description of a nursery habitat for the recently reclassified stingray Styracura schmardae from The Bahamas \n      \n      \n      \n      \n      \n      \n      \n        \n          2021. O'Shea O. R, Van Leeuwen T. E., O'Brien D. A., Arrowsmith L., McCalman R., Griffiths M., Exton D.. Marine Ecology Progress Series.\n        \n      \n      \n      \n\n      \n      \n      \n      \n      \n         \n           PDF \n         \n      \n      \n      \n      \n      \n         \n           Publisher's Version \n        \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n    \n  \n    \n      Drivers of octopus abundance and density in an anchialine lake: A 30 year comparison \n      \n      \n      \n      \n      \n      \n      \n        \n          2020. O'Brien D. A., Taylor M., Mason H. D., Boersch-Supan P. H., O'Shea O. R. Experimental Marine Biology and Ecology.\n        \n      \n      \n      \n\n      \n      \n      \n      \n      \n         \n           PDF \n         \n      \n      \n      \n         \n           Open Access\n        \n      \n      \n      \n         \n           Publisher's Version \n        \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n    \n  \n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "practical/seagrass/index.html",
+    "href": "practical/seagrass/index.html",
+    "title": "Research technician as a member of the Thalassia Experimental Network",
+    "section": "",
+    "text": "Output\n\n\n\nTwo peer reviewed publications (Campbell et al. 2024 & Fourquean et al. 2023) and ~50 citizen scientists\n\n\n\n\n\n\n\n\n\n\n\na) Resident green turtle\n\n\n\n\n\n\n\nb) local groups involved in the experiment\n\n\n\n\n\nThe Thalassia Experimental Network is a Smithsonian Institute project aiming to identify the impacts of tropicalisation on seagrass functioning.\nI contributed to the Eleutheran site of this network by managing the site’s data collection and research protocol.\nThis involved simulating fish herbivory across the seagrass exclusion cages (see Figure 1a) and estimating biomass changes across the varying exclusions.\nThe project also actively encouraged Bahamians and tourists to help in the data collection. I therefore wrote risk assessments and designed briefings to ensure safe, equitable and high quality data collection practices.\n\n\n\na) Resident green turtle\nb) local groups involved in the experiment"
+  },
+  {
+    "objectID": "practical/index.html",
+    "href": "practical/index.html",
+    "title": "Practical Work",
+    "section": "",
+    "text": "Below are selected examples of my work directly contributed to conservation and/or management practices.\n\n\n\n\n\n\n\n\n\n\nEWSmethods: an R package to predict tipping points\n\n\nWrote and published open source software for the real-time monitoring of ecosystems\n\n\n\nDuncan O’Brien\n\n\nJun 1, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nProtection of Seahorse National Park (f.k.a Sweetings Pond)\n\n\nContributed octopus and benthic survey data to support the designation of this salt water lake as a National Park by the Bahamas National Trust\n\n\n\nDuncan O’Brien\n\n\nJul 21, 2020\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nManor Farm tree plantation\n\n\nDesigned, optimised and performed appropriate tree planting for an ecologically minded farm\n\n\n\nDuncan O’Brien\n\n\nJan 5, 2020\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nResearch technician as a member of the Thalassia Experimental Network\n\n\nPerformed data collection, citizen science outreach and research station management for the Eleuthera site of an international seagrass exclusion experiment\n\n\n\nDuncan O’Brien\n\n\nSep 2, 2019\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Duncan O’Brien",
+    "section": "",
+    "text": "email\n  \n  \n    \n     CV\n  \n\n  \n  \nI’m an quantitative ecologist at the University of Bristol. I am interested in the sudden collapse of ecosystems and how we can estimate their resilience. My research has appeared in Nature Communications, Global Change Biology, Marine Biology, and other peer-reviewed journals. I also work with farmers and non-governmental organisations to implement conservation tools.\nI am therefore adept in statistics, multiple coding languages (R, Julia, QGIS, Python and SQL), theoretical ecology and conservation ecology.\n\nFollow My Research\nIf you want to stay up-to-date on my work, follow me on Google Scholar.\n\n\nIdentifiers and Social Media\nI’m on Twitter and LinkedIn. All my research is (hopefully) reproducible using code and data found on my GitHub with any outputs traceable via my ORCID ID."
+  },
+  {
+    "objectID": "practical/ewsmethods/index.html",
+    "href": "practical/ewsmethods/index.html",
+    "title": "EWSmethods: an R package to predict tipping points",
+    "section": "",
+    "text": "Output\n\n\n\nOne peer reviewed publication (O’Brien et al. 2023), a dedicated website, and stable release on CRAN.\n\n\nThis R package aims to provide tipping point indicators for univariate and multivariate time series via a simple interface.\nIt supports simple ‘early warning signals’ and machine learning models such as EWSNet to allow real-time monitoring of ecosystems, fisheries, climate systems etc risk of sudden collapse.\nThese sudden changes can occur through a number of different mechanisms (Figure 1), but EWSmethods provides different methods/indicators to classify dynamics.\n\n\n\n\n\n\nFigure 1: Three forms of system dynamics detectable using EWSmethods.\n\n\n\nSpecifically, it builds on the seminal earlywarnings R package to pull upon multiple data sources and the wider stability literature - e.g. Pimm 1984 & Donohue et al. 2013.\nI wrote and maintain this package so please feel free to email me questions directly. Further tutorials can be found at https://duncanobrien.github.io/EWSmethods/.\n\n\n\nFigure 1: Three forms of system dynamics detectable using EWSmethods."
+  },
+  {
+    "objectID": "practical/manor-woodland/index.html",
+    "href": "practical/manor-woodland/index.html",
+    "title": "Manor Farm tree plantation",
+    "section": "",
+    "text": "Output\n\n\n\n628 native trees (aspen, beech, oak, silver birch and sycamore) planted across two fields. ~80 survival rate to date.\nI provided consultation for Manor Farm, to improve its marginal farmland for biodiversity. Specifically, I was hired to convert poor quality pasture adjacent to railway hedgerows to semi-natural woodland using native tree species. The entire process from planning to implementation is visualised in Figure 1."
+  },
+  {
+    "objectID": "practical/manor-woodland/index.html#project-stages",
+    "href": "practical/manor-woodland/index.html#project-stages",
+    "title": "Manor Farm tree plantation",
+    "section": "Project stages",
+    "text": "Project stages\n\nFirst planning stage\n\nFrom the available land, optimal locations were selected using GIS. This involved topological, soil and vegetation data.\n\nSecond planning stage\n\nAppropriate species chosen for the selected environmental conditions. Grant funding sought from the Woodland Trust.\n\nThird planning stage\n\nPlausible planting regimes considered based upon landowner and employee polling. Copse like regime preferred with fast and slow growing species interspersed.\n\nPlanting stage\n\nInitial November 2020 plant of ~300 individual trees across two sites. Farm employees and families were invited to take part (see Figure 2).\n\nManagement and expansion\n\nSince 2020, three additional plantings have been made with periodic management to prevent grass overcrowding. The local community now donate unwanted saplings to the farm (e.g oaks in lawns).\n\n\n\n\n\n\n\n\nFigure 2: Farm community taking part in tree planting.\n\n\n\n\n\n\nFigure 1: Tree planting workflow used at Manor Farm.\nFigure 2: Farm community taking part in tree planting."
+  },
+  {
+    "objectID": "practical/sweetings/index.html",
+    "href": "practical/sweetings/index.html",
+    "title": "Protection of Seahorse National Park (f.k.a Sweetings Pond)",
+    "section": "",
+    "text": "Output\n\n\n\nFour peer reviewed publications (Mason et al. 2023, O’Brien et al. 2021a, O’Brien et al. 2021b & O’Brien et al. 2020), the site being protected as a National Park by the Bahamian National Trust, and ~30 local and international young citizen scientists."
+  },
+  {
+    "objectID": "practical/sweetings/index.html#survey-process",
+    "href": "practical/sweetings/index.html#survey-process",
+    "title": "Protection of Seahorse National Park (f.k.a Sweetings Pond)",
+    "section": "Survey process",
+    "text": "Survey process\n\nHabitat assessment\n\nbenthic, environmental, and fish surveys were performed to generate baselines for future management.\ninvolved snorkeling, SCUBA, underwater transects, and Baited Remote Underwater Video (BRUVs).\n\nSeahorse specific SCUBA surveys (day and night)\nOctopus survey and social behaviour experiments\n\n\n\n\n\n\n\n\n\n\na) Benthic transects\n\n\n\n\n\n\n\nb) GIS mapping\n\n\n\n\n\n\n\nc) BRUV surveys"
+  },
+  {
+    "objectID": "practical/sweetings/index.html#seahorse-surveys",
+    "href": "practical/sweetings/index.html#seahorse-surveys",
+    "title": "Protection of Seahorse National Park (f.k.a Sweetings Pond)",
+    "section": "Seahorse surveys",
+    "text": "Seahorse surveys\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSeahorse National Park supports the highest density of seahorses in the world and was the initial launchpad for the protection of the lake.\nI worked alongside Prof. Mason @the University of Tampa, to perform day and night transects for lined seahorse.\nThese surveys updated previous estimates to support the Bahamas National Trust’s lobbying of the Bahamian government. The surveys also identified the likely places these animals live and what predates them.\nI maintained equipment, made multiple day and night dives, and performed underwater SCUBA surveys during this project.\nThe findings of this work are published in Ecology and Evolution."
+  },
+  {
+    "objectID": "practical/sweetings/index.html#octopus-surveys",
+    "href": "practical/sweetings/index.html#octopus-surveys",
+    "title": "Protection of Seahorse National Park (f.k.a Sweetings Pond)",
+    "section": "Octopus surveys",
+    "text": "Octopus surveys\n\n\nOctopus surveys made in collaboration with the Center for Ocean Research & Education built upon observations made in the 1980s that Seahorse National Park also supports a high density octopus population.\nI designed SCUBA surveys, benthic quadrats and social behaviour experiments to verify this finding and test the hypothesis that high densities changes how asocial octopus are.\nOctopus are thought to be asocial - i.e. they are neither attracted to nor avoid other memebers of their species.\nI replicated the original 1980s census and showed that rather than being social, octopus within the lake actively avoided each other. This implies antisocial behavior rather than asocial.\nThe findings of this work are published in the Journal of Experimental Marine Biology & Marine Biology."
+  },
+  {
+    "objectID": "practical/sweetings/index.html#citizen-science",
+    "href": "practical/sweetings/index.html#citizen-science",
+    "title": "Protection of Seahorse National Park (f.k.a Sweetings Pond)",
+    "section": "Citizen science",
+    "text": "Citizen science\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nYoung people were encouraged to contribute to the data collection process. Local students were particularly encouraged to take part, with one individual becoming a co-author on the final publications due to their large contribution.\nLocal people also became increasingly enamoured with the lake. Traditionally this site was seen as undesirable place, with myths around a kraken and giant eel living inside (possibly due to the agressive nature of some of the octopus)!\nPublic talks, tours, and citizen science supported by the Centre for Ocean Research & Education all helped improve the community’s perception of the lake into one of local pride worthy of protection.\n\n\n\n\n\nFigure 1: Seahorse National Park\na) Benthic transects\nb) GIS mapping\nc) BRUV surveys"
+  },
+  {
+    "objectID": "talks/2020-bnhc/index.html",
+    "href": "talks/2020-bnhc/index.html",
+    "title": "Octopus abundance in an anchialine lake from The Bahamas",
+    "section": "",
+    "text": "The associated paper is: O’Brien D. A., Taylor M. L., Masonjones H. M., Boersch-Supan P. H. & O’Shea O. FR. 2020. Drivers of octopus abundance and density in an anchialine lake: A 30 year T comparison, Journal of Experimental Marine Biology. doi"
+  },
+  {
+    "objectID": "talks/2022-bes/index.html",
+    "href": "talks/2022-bes/index.html",
+    "title": "Identifying regime shifts using early warning signals: the univariate and multivariate options",
+    "section": "",
+    "text": "Winner of the poster prize."
+  }
+]
