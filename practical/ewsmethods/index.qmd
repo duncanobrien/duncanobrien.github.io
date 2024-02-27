@@ -1,0 +1,33 @@
+---
+title: "EWSmethods: an R package to predict tipping points"
+description: "Wrote and published open source software for the real-time monitoring of ecosystems"
+author: "Duncan O'Brien"
+date: "2023-06-01"
+image: logo.svg
+twitter-card:
+  image: "logo.svg"
+  card-style: "summary_large_image"
+title-block-banner: "#f0f3f5"
+title-block-banner-color: "black"
+---
+::: {.callout-note title="Output"}
+*One peer reviewed publication ([O'Brien et al. 2023](https://doi.org/10.1111/ecog.06674)), a dedicated [website](https://duncanobrien.github.io/EWSmethods/), and stable release on [CRAN](https://CRAN.R-project.org/package=EWSmethods)*.
+:::
+
+This R package aims to provide tipping point indicators for univariate and multivariate time series via a simple interface.
+
+It supports simple '[early warning signals](https://doi.org/10.1371/journal.pone.0041010)' and machine learning models such as [EWSNet](https://ewsnet.github.io) to allow real-time monitoring of ecosystems, fisheries, climate systems etc risk of sudden collapse.
+
+These sudden changes can occur through a number of different mechanisms (Figure 1), but `EWSmethods` provides different methods/indicators to classify dynamics.
+
+::: {#fig-ewsmethods}
+
+![](transition_types.png){.lightbox}
+
+Three forms of system dynamics detectable using `EWSmethods`.
+:::
+
+Specifically, it builds on the seminal [`earlywarnings`](https://CRAN.R-project.org/package=earlywarnings) R package to pull upon multiple data sources and the wider stability literature - e.g. [Pimm 1984](https://doi.org/10.1038/307321a0) & [Donohue et al. 2013](https://doi.org/10.1111/ele.12086).
+
+I wrote and maintain this package so please feel free to email me questions directly. Further tutorials can be found at [https://duncanobrien.github.io/EWSmethods/](https://duncanobrien.github.io/EWSmethods/).
+

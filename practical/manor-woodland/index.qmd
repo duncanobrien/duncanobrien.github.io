@@ -1,0 +1,45 @@
+---
+title: "Manor Farm tree plantation"
+description: "Designed, optimised and performed appropriate tree planting for an ecologically minded farm"
+author: "Duncan O'Brien"
+date: "2020-01-05"
+image: tree-design.png
+twitter-card:
+  image: "tree-design.png"
+  card-style: "summary_large_image"
+title-block-banner: "#f0f3f5"
+title-block-banner-color: "black"
+lightbox: true
+---
+
+::: {.callout-note title="Output"}
+*628 native trees (aspen, beech, oak, silver birch and sycamore) planted across two fields. ~80 survival rate to date*.
+:::
+
+I provided consultation for Manor Farm, to improve its marginal farmland for biodiversity. Specifically, I was hired to convert poor quality pasture adjacent to railway hedgerows to semi-natural woodland using native tree species. The entire process from planning to implementation is visualised in Figure 1. 
+
+::: {#fig-manor}
+
+![](tree_flow.png){.lightbox}
+
+Tree planting workflow used at Manor Farm.
+:::
+
+## Project stages
+a) First planning stage
+    - From the available land, optimal locations were selected using GIS. This involved topological, soil and vegetation data.
+b) Second planning stage
+    - Appropriate species chosen for the selected environmental conditions. Grant funding sought from the Woodland Trust. 
+c) Third planning stage
+    - Plausible planting regimes considered based upon landowner and employee polling. Copse like regime preferred with fast and slow growing species interspersed.
+d) Planting stage
+    - Initial November 2020 plant of ~300 individual trees across two sites. Farm employees and families were invited to take part (see Figure 2).
+e) Management and expansion
+    - Since 2020, three additional plantings have been made with periodic management to prevent grass overcrowding. The local community now donate unwanted saplings to the farm (e.g oaks in lawns).
+
+::: {#fig-manor}
+
+![](group-plant.png){width=80% .lightbox}
+
+Farm community taking part in tree planting.
+:::

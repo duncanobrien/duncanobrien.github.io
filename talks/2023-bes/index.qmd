@@ -1,0 +1,17 @@
+---
+title: "Resilience metrics are robust across data qualities but sensitive to community size"
+description: "A poster @ the British Ecological Society's 2023 annual meeting."
+author: "Duncan O'Brien"
+date: "2023-12-14"
+image: BES_2023_titlecard.png
+twitter-card:
+  image: "BES_2023_titlecard.png"
+  card-style: "summary_large_image"
+title-block-banner: "#f0f3f5"
+title-block-banner-color: "black"
+---
+
+```{=html}
+<iframe src="BES_2023_poster.pdf" name="frame" width=90% height="1015"></iframe>
+```
+

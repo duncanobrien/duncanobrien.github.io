@@ -1,0 +1,47 @@
+project:
+  type: website
+  output-dir: docs
+  resources: 
+    - "cv_DOB.pdf"
+    - CNAME
+  render:
+    - "*.qmd"
+    
+website:
+  title: "Duncan O'Brien"
+  favicon: favicon.ico
+  #site-url: https://www.duncanobrien.com
+  twitter-card: 
+    creator: "@duncanobrienn"
+    image: "/profile-tw.png"
+  open-graph: true
+  navbar:
+    #right:
+    tools:    
+      - icon: twitter
+        href: https://twitter.com/duncanobrienn
+      - icon: github
+        href: https://github.com/duncanobrien
+
+    left:
+      - href: index.qmd
+        text: About
+      #- href: papers/index.qmd
+      #  text: Papers
+      - href: research/index.qmd
+        text: Research
+      - href: practical/index.qmd
+        text: Practical Work  
+      - href: talks/index.qmd
+        text: Talks
+
+format:
+  html:
+    theme: sandstone
+    css: styles.css
+    toc: true
+
+editor: source
+
+execute:
+  freeze: auto

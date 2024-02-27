@@ -1,0 +1,17 @@
+---
+title: "Planktonic functional diversity changes in synchrony with lake ecosystem state"
+description: "A talk @ the British Ecological Society's 2021 annual meeting."
+author: "Duncan O'Brien"
+date: "2021-12-15"
+image: bes_2021_titlecard.png
+twitter-card:
+  image: "bes_2021_titlecard.png"
+  card-style: "summary_large_image"
+title-block-banner: "#f0f3f5"
+title-block-banner-color: "black"
+---
+
+The associated paper is:
+__O'Brien D. A.__, Gal G., Thackeray S. J., Matsuzaki S-i. S. & Clements C. F. 2024. Planktonic functional diversity changes in synchrony with lake ecosystem state, *Global Change Biology*. [doi](https://doi.org/10.1111/gcb.16485)
+
+<script defer class="speakerdeck-embed" data-id="5c8c3df234dd4b5ca22f02511cded97b" data-ratio="1.3333333333333333" src="//speakerdeck.com/assets/embed.js"></script>

@@ -1,0 +1,17 @@
+---
+title: "Octopus abundance in an anchialine lake from The Bahamas"
+description: "A talk @ the 2020 Bahamas Natural History Conference."
+author: "Duncan O'Brien"
+date: "2020-07-08"
+image: bnhc.jpeg
+twitter-card:
+  image: "bnhc.jpeg"
+  card-style: "summary_large_image"
+title-block-banner: "#f0f3f5"
+title-block-banner-color: "black"
+---
+
+The associated paper is:
+__O'Brien D. A.__, Taylor M. L., Masonjones H. M., Boersch-Supan P. H. & O'Shea O. FR. 2020. Drivers of octopus abundance and density in an anchialine lake: A 30 year T comparison, *Journal of Experimental Marine Biology*. [doi](https://doi.org/10.1016/j.jembe.2020.151377)
+
+<script defer class="speakerdeck-embed" data-id="bd5d066519074a39a615f9bc27ec2207" data-ratio="1.3333333333333333" src="//speakerdeck.com/assets/embed.js"></script>

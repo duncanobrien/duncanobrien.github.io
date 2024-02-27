@@ -1,0 +1,17 @@
+---
+title: "Resilience as an interdisciplinary concept"
+description: "A talk @ Research Without Borders 2022 hosted by the Cabot Institute."
+author: "Duncan O'Brien"
+date: "2022-07-13"
+image: stability_landscape_still_2.png
+twitter-card:
+  image: "stability_landscape_still_2.png"
+  card-style: "summary_large_image"
+title-block-banner: "#f0f3f5"
+title-block-banner-color: "black"
+---
+
+An summary video of the event can be found on the Bristol Doctoral College's [website](https://www.bristol.ac.uk/doctoral-college/news/2022/news--rwb-2022.html).
+
+{{< video https://www.youtube.com/watch?v=h_KhF0iPvF4 >}}
+

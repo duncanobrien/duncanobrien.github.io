@@ -1,0 +1,32 @@
+---
+title: "Research technician as a member of the Thalassia Experimental Network"
+description: "Performed data collection, citizen science outreach and research station management for the Eleuthera site of an international seagrass exclusion experiment"
+author: "Duncan O'Brien"
+date: "2019-09-02"
+image: seagrass.png
+twitter-card:
+  image: "seagrass.png"
+  card-style: "summary_large_image"
+title-block-banner: "#f0f3f5"
+title-block-banner-color: "black"
+lightbox: true
+---
+::: {.callout-note title="Output"}
+*Two peer reviewed publications ([Campbell et al. 2024](https://doi.org/10.1038/s41559-024-02336-5) & [Fourquean et al. 2023](https://doi.org/10.1007/s12237-023-01210-0)) and ~50 citizen scientists*
+:::
+
+::: {layout-ncol=2}
+
+![a) Resident green turtle](turtle.png){.lightbox group="seagrass"}
+
+![b) local groups involved in the experiment](citizen.png){.lightbox group="seagrass"}
+
+:::
+
+The [Thalassia Experimental Network](https://global.si.edu/projects/thalassia-experimental-network-ten) is a Smithsonian Institute project aiming to identify the impacts of tropicalisation on seagrass functioning.
+
+I contributed to the Eleutheran site of this network by managing the site's data collection and research protocol.
+
+This involved simulating fish herbivory across the seagrass exclusion cages (see Figure 1a) and estimating biomass changes across the varying exclusions.
+
+The project also actively encouraged Bahamians and tourists to help in the data collection. I therefore wrote risk assessments and designed briefings to ensure safe, equitable and high quality data collection practices.

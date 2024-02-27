@@ -1,0 +1,25 @@
+[
+  {
+    "listing": "/talks/index.html",
+    "items": [
+      "/talks/2023-bes/index.html",
+      "/talks/2022-bes/index.html",
+      "/talks/2022-rwb/index.html",
+      "/talks/2021-bes/index.html",
+      "/talks/2020-bnhc/index.html"
+    ]
+  },
+  {
+    "listing": "/research/index.html",
+    "items": []
+  },
+  {
+    "listing": "/practical/index.html",
+    "items": [
+      "/practical/ewsmethods/index.html",
+      "/practical/sweetings/index.html",
+      "/practical/manor-woodland/index.html",
+      "/practical/seagrass/index.html"
+    ]
+  }
+]

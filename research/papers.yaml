@@ -1,0 +1,226 @@
+- title: "Resilience metrics are robust across data qualities but sensitive to community size"
+  type: "Working"
+  author:
+    - <u>O'Brien D. A.</u>   
+    - Clements C. F
+  date: 2023-09-25
+  status: "Working paper"
+  preprint: "https://doi.org/10.1101/2023.09.25.559298"
+  github: "https://github.com/duncanobrien/lpi-multivariate-res"
+  
+
+- title: "Herbivore effects increase with latitude across the extent of a foundational seagrass"
+  type: "Published"
+  author:
+    - Campbell J. E.   
+    - Rhoades O. K.
+    - Munson C. J.
+    - <u>et al</u>
+  date: 2024-02-16
+  year: 2024
+  pdf: "../papers/Herbivore effects increase with latitude across the extent of a foundational seagrass.pdf"
+  journal: "<em>Nature Ecology and Evolution</em>"
+  pubclosed: "https://doi.org/10.1038/s41559-024-02336-5"
+  
+
+- title: "Early warning signals have limited applicability to empirical lake data"
+  type: "Published"
+  author:
+    - <u>O'Brien D. A.</u>   
+    - Deb S.
+    - Gal G.
+    - Thackeray S. J.
+    - Dutta P. S.
+    - Matsuzaki S-i. S.
+    - May L.
+    - Clements C. F
+  date: 2023-12-01
+  year: 2023
+  pdf: "../papers/Early warning signals have limited applicability to empirical lake data.pdf"
+  journal: "<em>Nature Communications</em>"
+  pubopen: "https://doi.org/10.1038/s41467-023-43744-8"
+  github: "https://github.com/duncanobrien/ews-assessments"
+  
+- title: "Phenotypic response to different predator strategies can be mediated by temperature"
+  type: "Published"
+  author:
+    - Cerini F.
+    - <u>O'Brien D. A.</u>   
+    - Wolfe E.
+    - Besson M.
+    - Clements C. F
+  date: 2023-08-31
+  year: 2023
+  pdf: "../papers/Phenotypic response to different predator strategies can be mediated by temperature.pdf"
+  journal: "<em>Ecology and Evolution</em>"
+  pubopen: "https://doi.org/10.1002/ece3.10474"
+  github: "https://github.com/franzmatches/Full-length-and-high-res-predator-exposure"
+  
+  
+- title: "EWSmethods: an R package to forecast tipping points at the community level using early warning signals, resilience measures, and machine learning models"
+  type: "Published"
+  author:
+    - <u>O'Brien D. A.</u>   
+    - Deb S.
+    - Sidheekh S.
+    - Krishnan N. C.
+    - Dutta P. S.
+    - Clements C. F
+  date: 2023-07-10
+  year: 2023
+  pdf: "../papers/EWSmethods an R package to forecast tipping points at the community level using early warning signals, resilience measures, and machine learning models.pdf"
+  journal: "<em>Ecography</em>"
+  pubopen: "https://doi.org/10.1111/ecog.06674"
+  github: "https://github.com/duncanobrien/EWSmethods"
+  
+
+- title: "Seagrass abundance predicts surficial soil organic carbon stocks across the range of <em>Thalassia testudinum</em> in the Western North Atlantic"
+  type: "Published"
+  author:
+    - Fourqurean J.
+    - Campbell J. E.   
+    - Rhoades O. K.
+    - <u>et al</u>
+  date: 2023-05-11
+  year: 2023
+  pdf: "../papers/Seagrass Abundance Predicts Surficial Soil Organic Carbon Stocks Across the Range of Thalassia testudinum in the Western North Atlantic.pdf"
+  journal: "<em>Estuaries and Coasts</em>"
+  pubclosed: "https://doi.org/10.1007/s12237-023-01210-0"
+
+- title: "Nocturnal surveys of lined seahorses reveal increased densities and seasonal recruitment patterns"
+  type: "Published"
+  author:
+    - Mason H. D.
+    - Rose E.   
+    - Gonzalez J. E.
+    - <u>O'Brien D. A</u>
+  date: 2023-01-11
+  year: 2023
+  pdf: "../papers/Nocturnal surveys of lined seahorses reveal increased densities and seasonal recruitment patterns.pdf"
+  journal: "<em>Ecology and Evolution</em>"
+  pubopen: "https://doi.org/10.1002/ece3.9573"
+  
+  
+- title: "Anemone bleaching impacts the larval recruitment success of an anemone- associated fish"
+  type: "Published"
+  author:
+    - Besson M.
+    - Feeney W. E.
+    - Gache C.   
+    - <u>O'Brien D. A.</u>
+    - Berthe C.
+    - Cowan Z.
+    - Brooker R. M.
+    - Laudet V.
+    - Lecchini D
+  date: 2022-11-23
+  year: 2023
+  pdf: "../papers/Anemone bleaching impacts the larval recruitment success of an anemone‐associated fish.pdf"
+  journal: "<em>Coral Reefs</em>"
+  pubopen: "https://doi.org/10.1007/s00338-022-02323-x"
+  github: "https://zenodo.org/records/6657185"
+  
+- title: "Planktonic functional diversity changes in synchrony with lake ecosystem state"
+  type: "Published"
+  author:
+    - <u>O'Brien D. A.</u>   
+    - Gal G.
+    - Thackeray S. J.
+    - Matsuzaki S-i. S.
+    - Clements C. F
+  date: 2022-11-12
+  year: 2023
+  pdf: "../papers/Planktonic functional diversity changes in synchrony with lake ecosystem state.pdf"
+  journal: "<em>Global Change Biology</em>"
+  pubopen: "https://doi.org/10.1111/gcb.16485"
+  github: "https://github.com/duncanobrien/plankton-FD"
+  
+  
+- title: "Spatiotemporal thermal variation drives diversity trends in experimental landscapes"
+  type: "Published"
+  author:
+    - Wolfe E.
+    - Cerini F.   
+    - Besson M.
+    - <u>O'Brien D. A.</u>
+    - Clements C. F
+  date: 2022-09-02
+  year: 2023
+  pdf: "../papers/Spatiotemporal thermal variation drives diversity trends in experimental landscapes.pdf"
+  journal: "<em>Journal of Animal Ecology</em>"
+  pubopen: "https://doi.org/10.1111/1365-2656.13867"
+  github: "https://github.com/franzmatches/Fluctuating_temperatures"
+  
+- title: "Early warning signal reliability varies with COVID-19 waves"
+  type: "Published"
+  author:
+    - <u>O'Brien D. A.</u>
+    - Clements C. F
+  date: 2021-12-08
+  year: 2021
+  pdf: "../papers/Early warning signal reliability varies with COVID-19 waves.pdf"
+  journal: "<em>Biology Letters</em>"
+  pubopen: "https://doi.org/10.1098/rsbl.2021.0487"
+  github: "https://github.com/duncanobrien/COVID-EWS"
+  
+- title: "Nocturnal surveys reveal novel insights into the community dynamics of an anchialine ecosystem from The Bahamas"
+  type: "Published"
+  author:
+    - <u>O'Brien D. A.</u>
+    - Mason H. D.
+    - Bethel E.
+    - O'Shea O. R
+  date: 2021-11-05
+  year: 2021
+  pdf: "../papers/Nocturnal surveys reveal novel insights into the community dynamics of an anchialine ecosystem from The Bahamas.pdf"
+  journal: "<em>Estuarine, Coastal and Shelf Science</em>"
+  pubclosed: "https://doi.org/10.1016/j.ecss.2021.107588"
+  pubopen: "https://research-information.bris.ac.uk/ws/portalfiles/portal/295587288/Nocturnal_surveys_reveal_novel_insights_into_the_community_dynamics_of_an_anchialine_ecosystem_from_The_Bahamas_AAM.pdf"
+
+- title: "An experimental assessment of social tolerance and den ecology in a high-density octopus population"
+  type: "Published"
+  author:
+    - <u>O'Brien D. A.</u>
+    - Taylor M.
+    - Mason H. D.
+    - Boersch-Supan P. H.
+    - O'Shea O. R
+  date: 2021-04-05
+  year: 2021
+  pdf: "../papers/An experimental assessment of social tolerance and den ecology in a high‐density octopus population.pdf"
+  journal: "<em>Marine Biology</em>"
+  pubopen: "https://doi.org/10.1007/s00227-021-03865-4"
+  
+- title: "Evidence and description of a nursery habitat for the recently reclassified stingray <em>Styracura schmardae</em> from The Bahamas"
+  type: "Published"
+  author:
+    - O'Shea O. R
+    - Van Leeuwen T. E.
+    - <u>O'Brien D. A.</u>
+    - Arrowsmith L.
+    - McCalman R.
+    - Griffiths M.
+    - Exton D.
+  date: 2021-02-18
+  year: 2021
+  pdf: "../papers/Evidence and description of a nursery habitat for the recently reclassified stingray Styracura schmardae from The Bahamas.pdf"
+  journal: "<em>Marine Ecology Progress Series</em>"
+  pubclosed: "https://doi.org/10.3354/meps13589"
+  
+
+- title: "Drivers of octopus abundance and density in an anchialine lake: A 30 year comparison"
+  type: "Published"
+  author:
+    - <u>O'Brien D. A.</u>
+    - Taylor M.
+    - Mason H. D.
+    - Boersch-Supan P. H.
+    - O'Shea O. R
+  date: 2020-05-20
+  year: 2020
+  pdf: "../papers/Drivers of octopus abundance and density in an anchialine lakeA 30 year comparison.pdf"
+  journal: "<em>Experimental Marine Biology and Ecology</em>"
+  pubclosed: "https://doi.org/10.1016/j.jembe.2020.151377"
+  pubopen: "https://repository.essex.ac.uk/27238/1/Drivers%20of%20octopus%20abundance%20in%20an%20anchialine%20lake.pdf"
+  
+  

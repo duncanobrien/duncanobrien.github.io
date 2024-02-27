@@ -1,0 +1,16 @@
+---
+title: Practical Work
+listing:
+  id: grids
+  type: grid
+  sort: "date desc"
+  grid-columns: 2
+  image-height: 285px
+---
+
+Below are selected examples of my work directly contributed to conservation and/or management practices.
+
+::: {#grids}
+:::
+
+

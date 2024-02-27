@@ -1,0 +1,124 @@
+---
+title: "Protection of Seahorse National Park (f.k.a Sweetings Pond)"
+description: "Contributed octopus and benthic survey data to support the designation of this salt water lake as a National Park by the Bahamas National Trust"
+author: "Duncan O'Brien"
+date: "2020-07-21"
+image: bnt-plan.png
+twitter-card:
+  image: "bnt-plan.png"
+  card-style: "summary_large_image"
+fig-width: 6
+fig-asp: 0.618
+title-block-banner: "#f0f3f5"
+title-block-banner-color: "black"
+lightbox: true
+---
+
+::: {.callout-note title="Output"}
+*Four peer reviewed publications ([Mason et al. 2023](https://doi.org/10.1002/ece3.9573), [O'Brien et al. 2021a](http://doi.org/10.1016/j.ecss.2021.107588), [O'Brien et al. 2021b](https://doi.org/10.1007/s00227-021-03865-4) & [O'Brien et al. 2020](https://doi.org/10.1016/j.jembe.2020.151377)), the site being [protected](https://bnt.bs/news/bahamas-government-and-bnt-announce-declaration-of-seahorse-national-park-on-eleuthera/) as a National Park by the Bahamian National Trust, and ~30 local and international young citizen scientists*.
+:::
+
+::: {#fig-ewsmethods}
+
+![](sweetings.png){.lightbox}
+
+Seahorse National Park
+:::
+    
+## Survey process
+a) Habitat assessment
+    - benthic, environmental, and fish surveys were performed to generate baselines for future management.
+    - involved snorkeling, SCUBA, underwater transects, and Baited Remote Underwater Video (BRUVs).
+b) Seahorse specific SCUBA surveys (day and night)
+c) Octopus survey and social behaviour experiments
+
+::: {layout-ncol=3}
+
+![a) Benthic transects](transect.jpeg){.lightbox group="habassess"}
+
+![b) GIS mapping](lake_gis2.png){.lightbox group="habassess"}
+
+![c) BRUV surveys](bruv2.png){.lightbox group="habassess"}
+
+:::
+
+## Seahorse surveys
+::: {.grid}
+
+::: {.g-col-4}
+
+::: {layout-nrow=2}
+
+![](seahorse2.JPG){.lightbox group="seahorse"}
+
+![](seahorse.png){.lightbox group="seahorse"}
+
+:::
+
+:::
+
+::: {.g-col-8}
+Seahorse National Park supports the [highest density of seahorses in the world](https://doi.org/10.3354/esr00949) and was the initial launchpad for the protection of the lake.
+
+I worked alongside [Prof. Mason](https://www.ut.edu/directory/masonjones-heather) @the University of Tampa, to perform day and night transects for lined seahorse. 
+
+These surveys updated previous estimates to support the Bahamas National Trust's lobbying of the Bahamian government. The surveys also identified the likely places these animals live and what predates them.
+
+I maintained equipment, made multiple day and night dives, and performed underwater SCUBA surveys during this project.
+
+The findings of this work are published in [Ecology and Evolution](https://doi.org/10.1002/ece3.9573).
+:::
+:::
+
+## Octopus surveys
+::: {.grid}
+
+::: {.g-col-7}
+Octopus surveys made in collaboration with the [Center for Ocean Research & Education](https://www.coresciences.org) built upon observations made in the [1980s](https://www.sciencedirect.com/science/article/abs/pii/0022098186900869) that Seahorse National Park also supports a high density octopus population.
+
+I designed SCUBA surveys, benthic quadrats and social behaviour experiments to verify this finding and test the hypothesis that high densities changes how asocial octopus are. 
+
+Octopus are thought to be asocial - i.e. they are neither attracted to nor avoid other memebers of their species.
+
+I replicated the original 1980s census and showed that rather than being social, octopus within the lake actively avoided each other. This implies antisocial behavior rather than asocial.
+
+The findings of this work are published in the [Journal of Experimental Marine Biology](https://doi.org/10.1016/j.jembe.2020.151377) & [Marine Biology](https://doi.org/10.1007/s00227-021-03865-4).
+:::
+
+::: {.g-col-5}
+::: {layout-nrow=2}
+
+![](octopus.png){.lightbox group="octopus"}
+
+![](paddleboard.png){.lightbox group="octopus"}
+
+:::
+:::
+
+:::
+
+
+## Citizen science
+
+::: {.grid}
+
+::: {.g-col-5}
+::: {layout-nrow=2}
+
+![](citizen1.png){.lightbox group="citizen"}
+
+![](citizen2.png){.lightbox group="citizen"}
+
+
+:::
+:::
+
+::: {.g-col-7}
+Young people were encouraged to contribute to the data collection process. Local students were particularly encouraged to take part, with one individual becoming a co-author on the final publications due to their large contribution.
+
+Local people also became increasingly enamoured with the lake. Traditionally this site was seen as undesirable place, with myths around a kraken and giant eel living inside (possibly due to the agressive nature of some of the octopus)!
+
+Public talks, tours, and citizen science supported by the [Centre for Ocean Research & Education](https://www.coresciences.org) all helped improve the community's perception of the lake into one of local pride worthy of protection. 
+:::
+
+:::

@@ -1,0 +1,19 @@
+---
+title: "Identifying regime shifts using early warning signals: the univariate and multivariate options"
+description: "A poster presentation @ the British Ecological Society's 2022 annual meeting."
+author: "Duncan O'Brien"
+date: "2022-12-21"
+image: BES_2022_titlecard.png
+twitter-card:
+  image: "BES_2022_titlecard.png"
+  card-style: "summary_large_image"
+title-block-banner: "#f0f3f5"
+title-block-banner-color: "black"
+---
+
+Winner of the poster prize.
+
+```{=html}
+<iframe src="BES_2022_poster.pdf" name="frame" width=90% height="1015"></iframe>
+```
+
