@@ -1,23 +1,22 @@
 project:
   type: website
   output-dir: docs
-  resources: 
+  resources:
     - "cv_DOB.pdf"
     - CNAME
   render:
     - "*.qmd"
-    
+
 website:
   title: "Duncan O'Brien"
   favicon: favicon.ico
-  #site-url: https://www.duncanobrien.com
-  twitter-card: 
+  twitter-card:
     creator: "@duncanobrienn"
     image: "/profile-tw.png"
   open-graph: true
   navbar:
     #right:
-    tools:    
+    tools:
       - icon: twitter
         href: https://twitter.com/duncanobrienn
       - icon: github
@@ -31,7 +30,7 @@ website:
       - href: research/index.qmd
         text: Research
       - href: practical/index.qmd
-        text: Practical Work  
+        text: Practical Work
       - href: talks/index.qmd
         text: Talks
 
