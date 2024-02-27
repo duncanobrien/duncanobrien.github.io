@@ -1,1 +1,1 @@
-Sitemap: https://duncanobrien.github.io/home/sitemap.xml
+Sitemap: https://duncanobrien.github.io/sitemap.xml
