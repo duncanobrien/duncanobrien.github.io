@@ -1,0 +1,16 @@
+---
+title: "The Timeline to Collapse suggests terminal decline in Norwegian Atlantic puffins and Black-legged kittiwakes."
+description: "A talk @ the British Ecological Society's 2024 annual meeting."
+author: "Duncan O'Brien"
+date: "2024-12-13"
+image: bes_2024_titlecard.png
+twitter-card:
+  image: "bes_2024_titlecard.png"
+  card-style: "summary_large_image"
+title-block-banner: "#f0f3f5"
+title-block-banner-color: "black"
+---
+
+The associated paper is:
+
+<script defer class="speakerdeck-embed" data-id="9d40bdaec5ef462e952e9ae5d13d5fe2" data-ratio="1.3333333333333333" src="//speakerdeck.com/assets/embed.js"></script>

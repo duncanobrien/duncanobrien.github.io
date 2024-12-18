@@ -11,7 +11,3 @@ listing:
 ::: {#grids}
 :::
 
-For older talks, see [Speaker Deck](https://speakerdeck.com/carlislerainey/).
-
-
-
