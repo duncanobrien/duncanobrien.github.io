@@ -1,3 +1,19 @@
+- title: "Halting predicted vertebrate declines requires tackling multiple drivers of biodiversity loss"
+  type: "Working"
+  author:
+    - Capdevila P.
+    - <u>O'Brien D. A.</u>
+    - Marconi V.
+    - Johnson T. F.
+    - Freeman R.
+    - McRae L.
+    - Clements C. F
+  date: 2025-01-02
+  status: "Working paper"
+  preprint: "https://doi.org/10.1101/2025.01.02.630023"
+  github: "https://github.com/duncanobrien/multiple-threats"
+
+
 - title: "Stability metrics are robust across data qualities but sensitive to community size"
   type: "Working"
   author:
@@ -7,7 +23,6 @@
   status: "Working paper"
   preprint: "https://www.biorxiv.org/content/10.1101/2023.09.25.559298v1"
   github: "https://github.com/duncanobrien/lpi-multivariate-res"
-
 
 - title: "Herbivore effects increase with latitude across the extent of a foundational seagrass"
   type: "Published"

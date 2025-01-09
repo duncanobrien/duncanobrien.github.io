@@ -32,6 +32,6 @@ If you want to stay up-to-date on my work, follow me on [Google Scholar](https:/
 
 #### Identifiers and Social Media
 
-I'm on [Twitter](https://twitter.com/duncanobrienn) and [LinkedIn](https://www.linkedin.com/in/duncan-o-brien-73b8a414b/). All my research is (hopefully) reproducible using code and data found on my [GitHub](https://github.com/duncanobrien) with any outputs traceable via my [ORCID](https://orcid.org/0000-0002-3420-5210) ID.
+I'm on [Bluesky](https://bsky.app/profile/duncanobrien.bsky.social) and [LinkedIn](https://www.linkedin.com/in/duncan-o-brien-73b8a414b/). All my research is (hopefully) reproducible using code and data found on my [GitHub](https://github.com/duncanobrien) with any outputs traceable via my [ORCID](https://orcid.org/0000-0002-3420-5210) ID.
 
 :::
