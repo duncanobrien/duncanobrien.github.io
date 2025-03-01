@@ -1,3 +1,18 @@
+- title: "Tree diversity does not confer greater resilience to drought across mature European forests"
+  type: "Working"
+  author:
+    - Rodriguez D. I.
+    - Fischer F. J.
+    - <u>O'Brien D. A.</u>
+    - Wang B.
+    - De Kauwe M.
+    - Coomes D. A.
+    - Bouriand O.
+    - Jucker T
+  date: 2025-03-01
+  status: "Working paper"
+
+
 - title: "Halting predicted vertebrate declines requires tackling multiple drivers of biodiversity loss"
   type: "Working"
   author:
@@ -12,6 +27,19 @@
   status: "Working paper"
   preprint: "https://doi.org/10.1101/2025.01.02.630023"
   github: "https://github.com/duncanobrien/multiple-threats"
+
+
+- title: "Multivariate signals of population collapse in a high-throughput ecological experiment"
+  type: "Working"
+  author:
+    - Cerini F.
+    - Jackson J.
+    - <u>O'Brien D. A.</u>
+    - Childs D. Z.
+    - Clements C. F
+  date: 2025-01-01
+  status: "Working paper"
+  github: "https://github.com/jjackson-eco/timeline_demonstration"
 
 
 - title: "Stability metrics are robust across data qualities but sensitive to community size"
