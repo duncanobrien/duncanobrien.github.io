@@ -22,7 +22,18 @@ about:
 
 ::: {#hero-heading}
 
-I'm an quantitative ecologist at the University of Bristol. I am interested in the sudden collapse of ecosystems and how we can estimate their resilience. My research has appeared in *Nature Communications*, *Global Change Biology*, *Marine Biology*, and other peer-reviewed journals. I also work with farmers and non-governmental organisations to implement conservation tools.
+I'm an quantitative ecologist at the University of Bristol. I am interested in the sudden collapse of ecosystems and how we can estimate their resilience. My research has appeared in [*Nature Communications*](https://www.nature.com/ncomms/), [*Global Change Biology*](https://onlinelibrary.wiley.com/journal/13652486), [*Marine Biology*](https://link.springer.com/journal/227), and other peer-reviewed journals. I also work with farmers and non-governmental organisations to implement conservation tools. 
+
+More generally, my research focuses on:
+
+::: {style="font-size: 90%;"}
+
+* Stability and responses of ecosystems
+* Interactions between species and their environment
+* The practical prediction of tipping points
+* Conservation of ecosystem functioning and services
+
+::: 
 
 I am therefore adept in statistics, multiple coding languages (R, Julia, QGIS, Python and SQL), theoretical ecology and conservation ecology.
 

@@ -43,14 +43,17 @@
 
 
 - title: "Stability metrics are robust across data qualities but sensitive to community size"
-  type: "Working"
+  type: "Published"
   author:
     - <u>O'Brien D. A.</u>
     - Clements C. F
-  date: 2023-09-25
-  status: "Working paper"
-  preprint: "https://www.biorxiv.org/content/10.1101/2023.09.25.559298v1"
+  date: 2025-07-01
+  year: 2025
+  pdf: "../papers/Stability metrics are robust across data qualities but sensitive to community size.pdf"
+  journal: "<em>Biological Conservation</em>"
+  pubopen: "https://doi.org/10.1016/j.biocon.2025.111191"
   github: "https://github.com/duncanobrien/lpi-multivariate-res"
+
 
 - title: "Herbivore effects increase with latitude across the extent of a foundational seagrass"
   type: "Published"
@@ -63,6 +66,7 @@
   year: 2024
   pdf: "../papers/Herbivore effects increase with latitude across the extent of a foundational seagrass.pdf"
   journal: "<em>Nature Ecology and Evolution</em>"
+  pubopen: "https://edepot.wur.nl/651183"
   pubclosed: "https://doi.org/10.1038/s41559-024-02336-5"
 
 
@@ -128,7 +132,9 @@
   year: 2023
   pdf: "../papers/Seagrass Abundance Predicts Surficial Soil Organic Carbon Stocks Across the Range of Thalassia testudinum in the Western North Atlantic.pdf"
   journal: "<em>Estuaries and Coasts</em>"
+  pubopen: "https://edepot.wur.nl/633291"
   pubclosed: "https://doi.org/10.1007/s12237-023-01210-0"
+
 
 - title: "Nocturnal surveys of lined seahorses reveal increased densities and seasonal recruitment patterns"
   type: "Published"
@@ -162,6 +168,7 @@
   journal: "<em>Coral Reefs</em>"
   pubopen: "https://doi.org/10.1007/s00338-022-02323-x"
   github: "https://zenodo.org/records/6657185"
+
 
 - title: "Planktonic functional diversity changes in synchrony with lake ecosystem state"
   type: "Published"
@@ -206,6 +213,7 @@
   pubopen: "https://doi.org/10.1098/rsbl.2021.0487"
   github: "https://github.com/duncanobrien/COVID-EWS"
 
+
 - title: "Nocturnal surveys reveal novel insights into the community dynamics of an anchialine ecosystem from The Bahamas"
   type: "Published"
   author:
@@ -220,6 +228,7 @@
   pubclosed: "https://doi.org/10.1016/j.ecss.2021.107588"
   pubopen: "https://research-information.bris.ac.uk/ws/portalfiles/portal/295587288/Nocturnal_surveys_reveal_novel_insights_into_the_community_dynamics_of_an_anchialine_ecosystem_from_The_Bahamas_AAM.pdf"
 
+
 - title: "An experimental assessment of social tolerance and den ecology in a high-density octopus population"
   type: "Published"
   author:
@@ -233,6 +242,7 @@
   pdf: "../papers/An experimental assessment of social tolerance and den ecology in a high‐density octopus population.pdf"
   journal: "<em>Marine Biology</em>"
   pubopen: "https://doi.org/10.1007/s00227-021-03865-4"
+
 
 - title: "Evidence and description of a nursery habitat for the recently reclassified stingray <em>Styracura schmardae</em> from The Bahamas"
   type: "Published"
