@@ -2,6 +2,7 @@
   {
     "listing": "/talks/index.html",
     "items": [
+      "/talks/2025-bes/index.html",
       "/talks/2025-sefs14/index.html",
       "/talks/2024-bes/index.html",
       "/talks/2023-bes/index.html",
@@ -12,10 +13,6 @@
     ]
   },
   {
-    "listing": "/research/index.html",
-    "items": []
-  },
-  {
     "listing": "/practical/index.html",
     "items": [
       "/practical/ewsmethods/index.html",
@@ -23,5 +20,9 @@
       "/practical/manor-woodland/index.html",
       "/practical/seagrass/index.html"
     ]
+  },
+  {
+    "listing": "/research/index.html",
+    "items": []
   }
 ]
