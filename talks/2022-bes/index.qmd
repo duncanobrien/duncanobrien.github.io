@@ -13,6 +13,9 @@ title-block-banner-color: "black"
 
 Winner of the poster prize.
 
+The associated paper is:
+__O'Brien D. A.__, Deb S., Gal G., Thackeray S. J., Dutta P. S., Matsuzaki S-i. S., May L.& Clements C. F. 2023. Early warning signals have limited applicability to empirical lake data, *Nature Communications*. [doi](https://doi.org/10.1038/s41467-023-43744-8)
+
 ```{=html}
 <iframe src="BES_2022_poster2.pdf" name="frame" width=90% height="1015"></iframe>
 ```

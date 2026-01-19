@@ -1,3 +1,98 @@
+- title: "Causal inference corroborates presumed drivers of North Atlantic seabird declines"
+  type: "Working"
+  author:
+    - <u>O'Brien D. A.</u>
+    - Layton-Matthews K.
+    - Capdevila P.
+    - Wauchope H.
+    - Fayet A.
+    - Anker-Nilssen T.
+    - Bringsvor I. S.
+    - Christensen-Dalsgaard S.
+    - Dehnhard N.
+    - Descamps S.
+    - Erikstad K. E.
+    - Lorentsen S. H.
+    - Reiertsen T. K.
+    - Strøm H.
+    - Systad G.
+    - Tarroux A.
+    - Clements C. F.
+  date: 2025-10-01
+  status: "Working paper"
+
+- title: "Soil communities drive wood decomposition across European forests"
+  type: "Working"
+  author:
+    - Bingham E. M.
+    - Maia L.
+    - Lamgridge H.
+    - <u>et al</u>
+  date: 2026-01-07
+  status: "Working paper"
+
+- title: "Identifying trophic rewilding hotspots in Britain"
+  type: "Working"
+  author:
+    - Arundel M. E.
+    - <u>O'Brien D. A.</u>
+    - Stockdale M. T.
+    - Memmott J.
+    - Hunter S. K. R.
+    - Palmer J.
+    - Blake L. J.
+    - Clements C. F.
+  date: 2026-01-02
+  status: "Working paper"
+
+- title: "Historic growth patterns predict future tree mortality across European forests"
+  type: "Working"
+  author:
+    - Rodriguez D. I.
+    - Battison R.
+    - <u>O'Brien D. A.</u>
+    - Bouriand O.
+    - Jucker T
+  date: 2025-12-17
+  status: "Working paper"
+
+- title: "Parasitoid genetic diversity provides high parasitism rates that decline over generations"
+  type: "Working"
+  author:
+    - Maia L.
+    - Casanovas P.
+    - <u>O'Brien D. A.</u>
+    - Osborne A.
+    - Goldson S.
+    - Tylianakis J.
+  date: 2025-10-01
+  status: "Working paper"
+
+
+- title: "Understanding buffering capacity is critical to assessing seabird vulnerability to population collapse"
+  type: "Working"
+  author:
+    - <u>O'Brien D. A.</u>
+    - Layton-Matthews K.
+    - Capdevila P.
+    - Wauchope H.
+    - Fayet A.
+    - Anker-Nilssen T.
+    - Bringsvor I. S.
+    - Christensen-Dalsgaard S.
+    - Dehnhard N.
+    - Descamps S.
+    - Erikstad K. E.
+    - Lorentsen S. H.
+    - Reiertsen T. K.
+    - Strøm H.
+    - Systad G.
+    - Tarroux A.
+    - Clements C. F.
+  date: 2025-08-01
+  status: "Working paper"
+
+
 - title: "Tree diversity does not confer greater resilience to drought across mature European forests"
   type: "Working"
   author:
@@ -30,17 +125,20 @@
 
 
 - title: "Multivariate signals of population collapse in a high-throughput ecological experiment"
-  type: "Working"
+  type: "Published"
   author:
     - Cerini F.
     - Jackson J.
     - <u>O'Brien D. A.</u>
     - Childs D. Z.
     - Clements C. F
-  date: 2025-01-01
+  date: 2025-09-15
+  year: 2025
   status: "Working paper"
+  pdf: "../papers/Multivariate signals of population collapse in a high-throughput ecological experiment.pdf"
+  journal: "<em>Ecology</em>"
+  pubopen: "https://doi.org/10.1002/ecy.70197"
   github: "https://github.com/jjackson-eco/timeline_demonstration"
-
 
 - title: "Stability metrics are robust across data qualities but sensitive to community size"
   type: "Published"

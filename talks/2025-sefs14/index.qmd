@@ -1,0 +1,17 @@
+---
+title: "Early warning signals have limited applicability to empirical lake data"
+description: "An invited talk @ the European Federation for Freshwater Science 2025 meeting."
+author: "Duncan O'Brien"
+date: "2025-07-24"
+image: sefs14_2025_titlecard.png
+twitter-card:
+  image: "sefs14_2025_titlecard.png"
+  card-style: "summary_large_image"
+title-block-banner: "#f0f3f5"
+title-block-banner-color: "black"
+---
+
+The associated paper is:
+__O'Brien D. A.__, Deb S., Gal G., Thackeray S. J., Dutta P. S., Matsuzaki S-i. S., May L.& Clements C. F. 2023. Early warning signals have limited applicability to empirical lake data, *Nature Communications*. [doi](https://doi.org/10.1038/s41467-023-43744-8)
+
+<script defer class="speakerdeck-embed" data-id="8db211f5d95f4306a11bd1f9d3c83ab4" data-ratio="1.3333333333333333" src="//speakerdeck.com/assets/embed.js"></script>

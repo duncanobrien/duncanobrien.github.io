@@ -11,6 +11,9 @@ title-block-banner: "#f0f3f5"
 title-block-banner-color: "black"
 ---
 
+The associated paper is:
+__O'Brien D. A.__ & Clements C. F. 2025. Stability metrics behave predictably across data qualities but are sensitive to community size, *Biological Conservation*. [doi](https://doi.org/10.1016/j.biocon.2025.111191)
+
 ```{=html}
 <iframe src="BES_2023_poster2.pdf" name="frame" width=90% height="1015"></iframe>
 ```
