@@ -109,7 +109,7 @@
 
 
 - title: "Halting predicted vertebrate declines requires tackling multiple drivers of biodiversity loss"
-  type: "Working"
+  type: "Published"
   author:
     - Capdevila P.
     - <u>O'Brien D. A.</u>
@@ -118,9 +118,11 @@
     - Freeman R.
     - McRae L.
     - Clements C. F
-  date: 2025-01-02
-  status: "Working paper"
-  preprint: "https://doi.org/10.1101/2025.01.02.630023"
+  date: 2026-02-11
+  year: 2026
+  pdf: "../papers/Halting predicted vertebrate declines requires tackling multiple drivers of biodiversity loss.pdf"
+  journal: "<em>Science Advances</em>"
+  pubopen: "https://doi.org/10.1126/sciadv.adx7973"
   github: "https://github.com/duncanobrien/multiple-threats"
 
 
@@ -134,11 +136,11 @@
     - Clements C. F
   date: 2025-09-15
   year: 2025
-  status: "Working paper"
   pdf: "../papers/Multivariate signals of population collapse in a high-throughput ecological experiment.pdf"
   journal: "<em>Ecology</em>"
   pubopen: "https://doi.org/10.1002/ecy.70197"
   github: "https://github.com/jjackson-eco/timeline_demonstration"
+
 
 - title: "Stability metrics are robust across data qualities but sensitive to community size"
   type: "Published"
