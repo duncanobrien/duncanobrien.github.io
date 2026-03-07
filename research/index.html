@@ -79,9 +79,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-title','listing-type','listing-author','listing-date','listing-status',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] }],
+      valueNames: ['listing-title','listing-type','listing-author','listing-date','listing-status','listing-preprint',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] }],
       
-      searchColumns: ["listing-title","listing-type","listing-author","listing-date","listing-status"],
+      searchColumns: ["listing-title","listing-type","listing-author","listing-date","listing-status","listing-preprint"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -552,6 +552,10 @@ window.Quarto = {
       
       
       
+      
+        <a role="button" href="https://www.biorxiv.org/content/10.64898/2026.02.26.708208.abstract" type="button" class="btn btn-outline-secondary btn-xs"> 
+          <i class="ai ai-doi ai-lg"></i> Preprint 
+        </a> 
       
       
       
