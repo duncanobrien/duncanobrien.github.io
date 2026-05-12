@@ -31,6 +31,15 @@
   date: 2026-01-07
   status: "Working paper"
 
+- title: "Vulnerability of Fynbos pollinators to honey bee induced hunger gaps, and buffering effects of Eucalyptus species"
+  type: "Working"
+  author:
+    - Brett M.
+    - <u>O'Brien D. A.</u>
+    - Memmott J.
+  date: 2025-10-07
+  status: "Working paper"
+
 - title: "Identifying trophic rewilding hotspots in Britain"
   type: "Working"
   author:
@@ -106,6 +115,7 @@
     - Jucker T
   date: 2025-03-01
   status: "Working paper"
+  preprint: "https://www.biorxiv.org/content/10.64898/2026.02.26.708208.abstract"
 
 
 - title: "Halting predicted vertebrate declines requires tackling multiple drivers of biodiversity loss"
