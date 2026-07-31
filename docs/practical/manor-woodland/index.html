@@ -99,13 +99,17 @@ background: #f0f3f5;
 <link rel="stylesheet" href="../../styles.css">
 <meta property="og:title" content="Manor Farm tree plantation – Duncan O’Brien">
 <meta property="og:description" content="Designed, optimised and performed appropriate tree planting for an ecologically minded farm">
-<meta property="og:image" content="tree-design.png">
+<meta property="og:image" content="https://duncanobrien.github.io/practical/manor-woodland/tree-design.png">
 <meta property="og:site_name" content="Duncan O’Brien">
+<meta property="og:image:height" content="2491">
+<meta property="og:image:width" content="3512">
 <meta name="twitter:title" content="Manor Farm tree plantation – Duncan O’Brien">
 <meta name="twitter:description" content="Designed, optimised and performed appropriate tree planting for an ecologically minded farm">
-<meta name="twitter:image" content="tree-design.png">
+<meta name="twitter:image" content="https://duncanobrien.github.io/practical/manor-woodland/tree-design.png">
 <meta name="twitter:creator" content="@duncanobrienn">
 <meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image-height" content="2491">
+<meta name="twitter:image-width" content="3512">
 </head>
 
 <body class="nav-fixed quarto-light">
@@ -339,7 +343,7 @@ Figure&nbsp;2: Farm community taking part in tree planting.
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp('/' + window.location.host + '/');
+        var filterRegex = new RegExp("https:\/\/duncanobrien\.github\.io\/");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }

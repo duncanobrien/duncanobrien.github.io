@@ -1,3 +1,28 @@
+- title: "Response diversity of individual seabirds correlates with colony stability"
+  type: "Working"
+  author:
+    - <u>O'Brien D. A.</u>
+    - Frankish C.
+    - Clements C. F.
+    - Capdevila P.
+    - Wauchope H.
+    - Fayet A.
+    - Anker-Nilssen T.
+    - Bringsvor I. S.
+    - Christensen-Dalsgaard S.
+    - Dehnhard N.
+    - Descamps S.
+    - Erikstad K. E.
+    - Lorentsen S. H.
+    - Reiertsen T. K.
+    - Strøm H.
+    - Systad G.
+    - Tarroux A.
+    - Merkel B.
+    - Layton-Matthews K.
+  date: 2026-07-01
+  status: "Working paper"
+
 - title: "Causal inference corroborates presumed drivers of North Atlantic seabird declines"
   type: "Working"
   author:
@@ -20,16 +45,19 @@
     - Clements C. F.
   date: 2025-10-01
   status: "Working paper"
+  preprint: "https://doi.org/10.64898/2026.07.31.741974"
+
 
 - title: "Soil communities drive wood decomposition across European forests"
   type: "Working"
   author:
     - Bingham E. M.
     - Maia L.
-    - Lamgridge H.
+    - Langridge H.
     - <u>et al</u>
   date: 2026-01-07
   status: "Working paper"
+  preprint: "https://doi.org/10.21203/rs.3.rs-9858624/v1"
 
 - title: "Vulnerability of Fynbos pollinators to honey bee induced hunger gaps, and buffering effects of Eucalyptus species"
   type: "Working"
@@ -47,9 +75,6 @@
     - <u>O'Brien D. A.</u>
     - Stockdale M. T.
     - Memmott J.
-    - Hunter S. K. R.
-    - Palmer J.
-    - Blake L. J.
     - Clements C. F.
   date: 2026-01-02
   status: "Working paper"
@@ -90,7 +115,6 @@
     - Bringsvor I. S.
     - Christensen-Dalsgaard S.
     - Dehnhard N.
-    - Descamps S.
     - Erikstad K. E.
     - Lorentsen S. H.
     - Reiertsen T. K.
@@ -103,7 +127,7 @@
 
 
 - title: "Tree diversity does not confer greater resilience to drought across mature European forests"
-  type: "Working"
+  type: "Published"
   author:
     - Rodriguez D. I.
     - Fischer F. J.
@@ -113,10 +137,11 @@
     - Coomes D. A.
     - Bouriand O.
     - Jucker T
-  date: 2025-03-01
-  status: "Working paper"
-  preprint: "https://www.biorxiv.org/content/10.64898/2026.02.26.708208.abstract"
-
+  date: 2026-05-15
+  year: 2026
+  pdf: "../papers/Limited predictability of tree-level responses to drought across European forests.pdf"
+  journal: "<em>Forest Ecology and Management</em>"
+  pubopen: "https://doi.org/10.1016/j.foreco.2026.123899"
 
 - title: "Halting predicted vertebrate declines requires tackling multiple drivers of biodiversity loss"
   type: "Published"
