@@ -83,9 +83,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-title','listing-type','listing-author','listing-date','listing-status','listing-preprint',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] }],
+      valueNames: ['listing-title','listing-type','listing-author','listing-date','listing-status','listing-preprint','listing-github',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] }],
       
-      searchColumns: ["listing-title","listing-type","listing-author","listing-date","listing-status","listing-preprint"],
+      searchColumns: ["listing-title","listing-type","listing-author","listing-date","listing-status","listing-preprint","listing-github"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -527,6 +527,10 @@ window.Quarto = {
       
       
       
+      
+        <a role="button" href="https://github.com/duncanobrien/seabird-causal" type="button" class="btn btn-outline-secondary btn-xs"> 
+          <i class="bi bi-github ai-lg"></i> GitHub 
+        </a>
       
       
       
